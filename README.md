@@ -6,7 +6,7 @@ This project is a digital version of a dice game involving ten dice. The objecti
 
 - Live Site URL: https://tenzies-dice-game-pk.netlify.app/
 
-Technologies used:
+### Technologies used:
 
 * React
 * JavaScript
